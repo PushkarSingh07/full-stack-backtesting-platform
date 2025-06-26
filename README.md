@@ -97,6 +97,9 @@ Visualized via interactive charts and tables.
 
 
 
+4.Terminal
+
+![image](https://github.com/user-attachments/assets/d3d28218-63d4-457b-9d8c-ed199a1da8d3)
 
 
 🔬 Testing Coverage
