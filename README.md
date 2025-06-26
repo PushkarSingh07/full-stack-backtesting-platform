@@ -50,14 +50,12 @@ Load OHLCV using /upload_csv endpoint (CSV format: datetime, open, high, low, cl
 
 
 
+
+
 3. Frontend Setup (React + TypeScript)
-bash
-Copy
-Edit
 cd frontend
 npm install
 npm run dev
-Visit http://localhost:5173 to view the app
 
 🧠 Strategy Building Guide
 Asset/Market Selection: Choose symbol, market type (spot/perp), and exchange
@@ -158,7 +156,7 @@ Strategy optimization (grid/random search)
 📌 Credits
 Developed by Pushkar Singh
 📧 pushkarsingh7898@gmail.com
-🔗 GitHub | LinkedIn
+[GitHub](https://github.com/PushkarSingh07) | [LinkedIn](https://linkedin.com/in/pushkar-singh-a006b21b5)
 
 
 Let me know if you'd like this exported as a `.md` file or if you'd like help generating your video script.
