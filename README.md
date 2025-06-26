@@ -43,6 +43,12 @@ Load OHLCV using /upload_csv endpoint (CSV format: datetime, open, high, low, cl
 
 ![image](https://github.com/user-attachments/assets/b75b4001-ac71-4b5a-af05-7987b4207230)
 
+![image](https://github.com/user-attachments/assets/e3dabc5a-9a4b-4db1-966e-1de3307cde53)
+
+![image](https://github.com/user-attachments/assets/410731e8-ae58-44c0-94c1-740f443a799d)
+
+
+
 
 3. Frontend Setup (React + TypeScript)
 bash
@@ -80,6 +86,19 @@ VaR, Beta, Leverage
 Visualized via interactive charts and tables.
 
 ![image](https://github.com/user-attachments/assets/bf018c1e-2dcf-4cb6-852c-89569691170e)
+
+![image](https://github.com/user-attachments/assets/25199831-639e-4328-a1a0-783354aecd68)
+
+![image](https://github.com/user-attachments/assets/a97eb8a3-8c81-426e-aab7-0201d79422ea)
+
+![image](https://github.com/user-attachments/assets/b39afcf3-20a6-41b9-9e7e-f0ddcbc85c21)
+
+![image](https://github.com/user-attachments/assets/312a4a55-1210-41ed-b986-66c03f6fa7cb)
+
+![image](https://github.com/user-attachments/assets/74720a3e-07ea-4209-9c93-5a750486170f)
+
+
+
 
 
 🔬 Testing Coverage
